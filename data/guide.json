@@ -1,0 +1,318 @@
+{
+  "guide": {
+    "show": "Tennessee Crossroads",
+    "eyebrow": "A Crossroads Guide · 40 Years",
+    "titleHTML": "A Traveler's Guide<br>to <em>Columbia</em>",
+    "city": "Columbia",
+    "sub": "Four decades of back-road stories, gathered into one trip through Mule Town — the courthouse square, the banks of the Duck River, and the makers, mealhouses, and mule-day traditions our hosts found along the way.",
+    "metaNote": "every one a real Crossroads segment",
+    "mapLede": "Every stop our cameras visited, plotted from the square to the county line.",
+    "quote": "“Come travel the highways and by-ways of Tennessee.”",
+    "note": "We hope this guide leads you to new memories, a hidden gem, or someplace you’ve always meant to visit. Thanks for making Tennessee Crossroads part of your journey.",
+    "colophonHTML": "Tennessee Crossroads is a <b>Nashville PBS</b> production · Each place began as a story on the show"
+  },
+  "print": {
+    "coverImage": "brochure/cache/cover-columbia.jpg",
+    "coverCaption": "The James K. Polk Home, West 7th Street",
+    "map": {
+      "bounds": {
+        "west": -87.44,
+        "east": -86.79,
+        "centerLat": 35.6263
+      },
+      "riverWide": [
+        "Duck"
+      ],
+      "riverWideIn": 0.2,
+      "waterLabel": {
+        "text": "Duck River",
+        "lat": 35.596,
+        "lng": -86.945
+      },
+      "areaLabels": [
+        {
+          "name": "SPRING HILL",
+          "lat": 35.745,
+          "lng": -86.93
+        },
+        {
+          "name": "SANTA FE",
+          "lat": 35.755,
+          "lng": -87.15
+        },
+        {
+          "name": "MOUNT PLEASANT",
+          "lat": 35.531,
+          "lng": -87.203
+        },
+        {
+          "name": "CULLEOKA",
+          "lat": 35.468,
+          "lng": -86.977
+        },
+        {
+          "name": "POTTSVILLE",
+          "lat": 35.618,
+          "lng": -86.862
+        },
+        {
+          "name": "COLUMBIA",
+          "lat": 35.652,
+          "lng": -87.075,
+          "big": true
+        }
+      ],
+      "inset": {
+        "name": "Columbia",
+        "west": -87.075,
+        "east": -87.015,
+        "south": 35.585,
+        "north": 35.632,
+        "box": [
+          0.6,
+          4.1,
+          6.5,
+          6.3
+        ]
+      },
+      "cartouche": [
+        0.6,
+        0.6,
+        6.5,
+        3.1
+      ],
+      "legend": [
+        0.6,
+        10.8,
+        6.5,
+        2.9
+      ],
+      "attrib": [
+        0.6,
+        14.0,
+        6.5,
+        1.2
+      ]
+    }
+  },
+  "sections": [
+    {
+      "key": "eat",
+      "title": "Eat & Drink",
+      "intro": "Catfish trays off the beaten path, pies on the square, and a taste of New Orleans on the Duck River.",
+      "stops": [
+        {
+          "name": "Catfish Campus Restaurant",
+          "host": "Tammi Arender",
+          "lat": 35.59159558147089,
+          "lng": -87.05036390787244,
+          "blurb": "A catfish restaurant off the beaten path that packs them in six days a week. Tammi Arender heads to class at Columbia's Catfish Campus.",
+          "addr": "2509 Keith Dr",
+          "phone": "(931) 380-8439",
+          "site": "catfishcampusrestaurant.com",
+          "siteUrl": "https://www.catfishcampusrestaurant.com/",
+          "link": "https://tennesseecrossroads.org/catfish-campus-restaurant/",
+          "img": "https://tennesseecrossroads.org/wp-content/uploads/2021/01/catfish-campus-restaurant.jpg"
+        },
+        {
+          "name": "The Dotted Lime",
+          "host": "Miranda Cohen",
+          "lat": 35.59989917259095,
+          "lng": -87.05737621224573,
+          "blurb": "Miranda Cohen found a friendly little place in Columbia serving delicious food — and peace of mind — for everyone at the table.",
+          "addr": "1907 Shady Brook St",
+          "site": "thedottedlime.com",
+          "siteUrl": "https://www.thedottedlime.com/",
+          "link": "https://tennesseecrossroads.org/the-dotted-lime/",
+          "img": "https://tennesseecrossroads.org/wp-content/uploads/2021/02/the-dotted-lime.png"
+        },
+        {
+          "name": "Marcy Jo's Mealhouse and Bakery",
+          "host": "Ken Wilshire",
+          "lat": 35.63783129999999,
+          "lng": -86.82499539999999,
+          "blurb": "Ken Wilshire visits an old mercantile store that's brought new life back to Pottsville — now a mealhouse and bakery worth the drive down Highway 431.",
+          "addr": "4205 Highway 431",
+          "phone": "(931) 380-0968",
+          "site": "roryfeek.com",
+          "siteUrl": "https://www.roryfeek.com/marcyjosrestaurants",
+          "link": "https://tennesseecrossroads.org/marcy-jos-mealhouse-and-bakery/",
+          "img": "https://tennesseecrossroads.org/wp-content/uploads/2021/02/marcy-jos-mealhouse-and-bakery.jpg"
+        },
+        {
+          "name": "Pie Sensations",
+          "host": "Rob Wilds",
+          "lat": 35.6144629,
+          "lng": -87.0345025,
+          "blurb": "Tennessee Crossroads found a tiny place turning out pies with mighty big flavor. Rob Wilds saves room for dessert at Pie Sensations, right on Columbia's square.",
+          "addr": "26 Public Square",
+          "phone": "(931) 223-5846",
+          "site": "piesensations.com",
+          "siteUrl": "https://piesensations.com/",
+          "link": "https://tennesseecrossroads.org/pie-sensations/",
+          "img": "https://tennesseecrossroads.org/wp-content/uploads/2021/02/pie-sensations.jpg"
+        },
+        {
+          "name": "River Terrace Restaurant",
+          "host": "Joe Elmore",
+          "lat": 35.6236825,
+          "lng": -87.0266717,
+          "blurb": "A pair of New Orleans transplants resettled in Columbia after Hurricane Katrina, restored an old restaurant on the Duck River, and brought the taste of home with them. Joe Elmore pulls up to the riverbank.",
+          "addr": "1000 Riverside",
+          "phone": "(931) 223-5135",
+          "site": "riverterracerestaurant.com",
+          "siteUrl": "https://www.riverterracerestaurant.com/",
+          "link": "https://tennesseecrossroads.org/river-terrace/",
+          "img": "https://tennesseecrossroads.org/wp-content/uploads/2021/02/river-terrace.jpg"
+        }
+      ]
+    },
+    {
+      "key": "see",
+      "title": "See & Explore",
+      "intro": "A president's home place, a festival ruled by mules, and trains you can ride in miniature.",
+      "stops": [
+        {
+          "name": "James K. Polk Home",
+          "host": "Rob Wilds",
+          "lat": 35.615167,
+          "lng": -87.037803,
+          "blurb": "Three presidents claimed Tennessee home, but only one went to Washington, did what he said he'd do, and came home without fanfare. Rob Wilds tours the Columbia home of James K. Polk.",
+          "addr": "301 West 7th St",
+          "phone": "(931) 388-2354",
+          "site": "jameskpolk.com",
+          "siteUrl": "https://jameskpolk.com/",
+          "link": "https://tennesseecrossroads.org/james-k-polk-home/",
+          "img": "https://tennesseecrossroads.org/wp-content/uploads/2021/02/james-k-polk-home.jpg"
+        },
+        {
+          "name": "Mule Day",
+          "host": "Sharon Puckett",
+          "lat": 35.61427514765322,
+          "lng": -87.08906866397821,
+          "blurb": "Once a year, the mighty mule rules the day in Columbia — parade, pageantry, and all the reasons they call this Mule Town. Sharon Puckett joins the celebration, held late March to early April. Seasonal.",
+          "addr": "1018 Maury County Park Dr",
+          "phone": "(931) 381-9557",
+          "site": "muleday.com",
+          "siteUrl": "http://muleday.com/",
+          "link": "https://tennesseecrossroads.org/mule-days/",
+          "img": "https://tennesseecrossroads.org/wp-content/uploads/2021/02/mule-days.jpg"
+        },
+        {
+          "name": "Mid-South Live Steamers",
+          "host": "Joe Elmore",
+          "lat": 35.61427514765322,
+          "lng": -87.08896866397821,
+          "blurb": "At Maury County Park, the Mid-South Live Steamers share the joy of riding the rails in a small way — miniature locomotives with full-size devotion. Check the club's schedule for public ride days.",
+          "addr": "1018 Maury County Park Dr",
+          "site": "midsouthlivesteamers.com",
+          "siteUrl": "https://www.midsouthlivesteamers.com/",
+          "link": "https://tennesseecrossroads.org/mid-south-live-steamers/",
+          "img": "https://tennesseecrossroads.org/wp-content/uploads/2021/02/mid-south-live-steamers.jpg"
+        }
+      ]
+    },
+    {
+      "key": "makers",
+      "title": "Makers",
+      "intro": "Signs that glow, negatives saved from the attic of history, and old trucks made showroom-new.",
+      "stops": [
+        {
+          "name": "Columbia Neon",
+          "host": "Susan Watson",
+          "lat": 35.62349943992598,
+          "lng": -87.03314129951397,
+          "blurb": "The folks at Columbia Neon have been lighting candles — electric ones — since the Great Depression. Susan Watson stops by the Nashville Highway shop where the craft still glows.",
+          "addr": "102 Nashville Hwy",
+          "phone": "(931) 388-2455",
+          "site": "columbianeon.net",
+          "siteUrl": "https://www.columbianeon.net/",
+          "link": "https://tennesseecrossroads.org/columbia-neon/",
+          "img": "https://tennesseecrossroads.org/wp-content/uploads/2021/02/columbia-neon.jpg"
+        },
+        {
+          "name": "West Seventh Company",
+          "host": "Rob Wilds",
+          "lat": 35.61481293045573,
+          "lng": -87.03441469588064,
+          "blurb": "When Columbians uncovered more than a million photographic negatives — some dating back to 1870 — they knew they'd found buried treasure. Rob Wilds sees pictures of the past preserved at West Seventh Company.",
+          "addr": "107 West 7th St",
+          "site": "w7thco.com",
+          "siteUrl": "https://w7thco.com/",
+          "link": "https://tennesseecrossroads.org/columbia-photos/",
+          "img": "https://tennesseecrossroads.org/wp-content/uploads/2021/02/columbia-photos.jpg"
+        },
+        {
+          "name": "Possum Holler Garage",
+          "host": "Joe Elmore",
+          "lat": 35.66099045791723,
+          "lng": -87.18164320941631,
+          "blurb": "On the backroads of Maury County, Max Davis never met an old truck he didn't like — and he can transform one into a show-quality masterpiece. Joe Elmore finds Possum Holler Garage, off the beaten path.",
+          "addr": "2980 Williamsport Pike",
+          "phone": "(931) 706-0002",
+          "site": "classiccarsofas.com",
+          "siteUrl": "http://www.classiccarsofas.com/",
+          "link": "https://tennesseecrossroads.org/possum-holler-garage/",
+          "img": "https://tennesseecrossroads.org/wp-content/uploads/2021/02/possum-holler-garage.jpg"
+        }
+      ]
+    },
+    {
+      "key": "characters",
+      "title": "Crossroads Characters",
+      "intro": "Whittlers, collectors, and the friendly faces our hosts met along the way.",
+      "stops": [
+        {
+          "name": "Wood Den Carvers",
+          "host": "Rob Wilds",
+          "blurb": "Cutting pieces of wood and trading cutting remarks — the Wood Den Carvers prove a hobby is better with friends. Rob Wilds joins Columbia's merry band of whittlers.",
+          "addr": "Columbia",
+          "site": "",
+          "siteUrl": "",
+          "link": "https://tennesseecrossroads.org/wood-den-carvers/",
+          "img": "https://tennesseecrossroads.org/wp-content/uploads/2021/02/wood-den-carvers.jpg"
+        },
+        {
+          "name": "Kathie & Steve Fuston, Clock Collectors",
+          "host": "Rob Wilds",
+          "blurb": "In a digital age, Kathie and Steve Fuston still appreciate clocks as the intricate, beautiful devices they are. Rob Wilds visits the Columbia collectors and their wonderful gallery of timekeepers.",
+          "addr": "Columbia",
+          "site": "",
+          "siteUrl": "",
+          "link": "https://tennesseecrossroads.org/clock-collectors/",
+          "img": "https://tennesseecrossroads.org/wp-content/uploads/2021/02/clock-collectors.jpg"
+        },
+        {
+          "name": "Billy Roy Parks, Wood Carver",
+          "host": "",
+          "blurb": "Whittling has always passed the time down on the farm, and this Columbia farmer carved out quite a niche — a collection of artwork more than seven decades in the making.",
+          "addr": "Columbia",
+          "site": "",
+          "siteUrl": "",
+          "link": "https://tennesseecrossroads.org/billy-roy-parks-wood-carver/",
+          "img": "https://tennesseecrossroads.org/wp-content/uploads/2021/04/billy-roy-parks-wood-carver.jpg"
+        }
+      ]
+    },
+    {
+      "key": "stay",
+      "title": "Stay a While",
+      "intro": "One gracious place to rest up before tomorrow's back roads.",
+      "stops": [
+        {
+          "name": "Blythewood Inn Bed & Breakfast",
+          "host": "Rob Wilds",
+          "lat": 35.60436274959601,
+          "lng": -87.06405685928783,
+          "blurb": "The Blythewood Inn offers guests a trip back to a quieter, more gracious time. Rob Wilds checks in at the Columbia bed and breakfast.",
+          "addr": "109 Blythewood Dr",
+          "phone": "(931) 982-0907",
+          "site": "blythewoodinnbb.com",
+          "siteUrl": "https://www.blythewoodinnbb.com/",
+          "link": "https://tennesseecrossroads.org/blythewood-inn-bed-breakfast/",
+          "img": "https://tennesseecrossroads.org/wp-content/uploads/2021/02/blythewood-inn-bed-and-breakfast.jpg"
+        }
+      ]
+    }
+  ]
+}
